@@ -1,12 +1,136 @@
 {
   "wallpapers": [
     {
-      "url": "https://github.com/Max028/Wallpapers/raw/master/Eternity01.jpg",
+      "author": "Massimiliano Princiotta",
+      "url": "https://github.com/Max028/Space-Wallpaper/raw/master/Space_1.jpg",
       "name": "Wall 1",
-      "thumbnail": "https://github.com/Max028/Wallpapers/raw/master/Eternity01_thumb.jpg"
+      "thumbnail": "https://github.com/Max028/Space-Wallpaper/raw/master/Space_1_thum.jpg"
+    },
+    {
+      "author": "Massimiliano Princiotta",
+      "url": "https://github.com/Max028/Space-Wallpaper/raw/master/Space_2.jpg",
+      "name": "Wall 2",
+      "thumbnail": "https://github.com/Max028/Space-Wallpaper/raw/master/Space_2_thumb.jpg"
+    },
+    {
+      "author": "Massimiliano Princiotta",
+      "url": "https://github.com/Max028/Space-Wallpaper/raw/master/Space_3.jpg",
+      "name": "Wall 3",
+      "thumbnail": "https://github.com/Max028/Space-Wallpaper/raw/master/Space_3_thumb.jpg"
+    },
+    {
+      "author": "Massimiliano Princiotta",
+      "url": "https://github.com/Max028/Space-Wallpaper/raw/master/Space_4.jpg",
+      "name": "Wall 4",
+      "thumbnail": "https://github.com/Max028/Space-Wallpaper/raw/master/Space_4_thumb.jpg"
+    },
+    {
+      "author": "Massimiliano Princiotta",
+      "url": "https://github.com/Max028/Space-Wallpaper/raw/master/Space_5.jpg",
+      "name": "Wall 5",
+      "thumbnail": "https://github.com/Max028/Space-Wallpaper/raw/master/Space_5_thumb.jpg"
+    },
+    {
+      "author": "Massimiliano Princiotta",
+      "url": "https://github.com/Max028/Space-Wallpaper/raw/master/Space_6.jpg",
+      "name": "Wall 6",
+      "thumbnail": "https://github.com/Max028/Space-Wallpaper/raw/master/Space_6_thumb.jpg"
+    },
+    {
+      "author": "Massimiliano Princiotta",
+      "url": "https://github.com/Max028/Space-Wallpaper/raw/master/Space_7.jpg",
+      "name": "Wall 7",
+      "thumbnail": "https://github.com/Max028/Space-Wallpaper/raw/master/Space_7_thumb.jpg"
+    },
+    {
+      "author": "Massimiliano Princiotta",
+      "url": "https://github.com/Max028/Space-Wallpaper/raw/master/Space_8.jpg",
+      "name": "Wall 8",
+      "thumbnail": "https://github.com/Max028/Space-Wallpaper/raw/master/Space_8_thumb.jpg"
+    },
+    {
+      "author": "Massimiliano Princiotta",
+      "url": "https://github.com/Max028/Space-Wallpaper/raw/master/Space_9.jpg",
+      "name": "Wall 9",
+      "thumbnail": "https://github.com/Max028/Space-Wallpaper/raw/master/Space_9_thumb.jpg"
+    },
+    {
+      "author": "Massimiliano Princiotta",
+      "url": "https://github.com/Max028/Space-Wallpaper/raw/master/Space_10.jpg",
+      "name": "Wall 10",
+      "thumbnail": "https://github.com/Max028/Space-Wallpaper/raw/master/Space_10_thumb.jpg"
+    },
+    {
+      "author": "Massimiliano Princiotta",
+      "url": "https://github.com/Max028/Space-Wallpaper/raw/master/Space_11.jpg",
+      "name": "Wall 11",
+      "thumbnail": "https://github.com/Max028/Space-Wallpaper/raw/master/Space_11_thumb.jpg"
+    },
+    {
+      "author": "Massimiliano Princiotta",
+      "url": "https://github.com/Max028/Space-Wallpaper/raw/master/Space_12.jpg",
+      "name": "Wall 12",
+      "thumbnail": "https://github.com/Max028/Space-Wallpaper/raw/master/Space_12_thumb.jpg"
+    },
+    {
+      "author": "Massimiliano Princiotta",
+      "url": "https://github.com/Max028/Space-Wallpaper/raw/master/Space_13.jpg",
+      "name": "Wall 13",
+      "thumbnail": "https://github.com/Max028/Space-Wallpaper/raw/master/Space_13_thumb.jpg"
+    },
+    {
+      "author": "Massimiliano Princiotta",
+      "url": "https://github.com/Max028/Space-Wallpaper/raw/master/Space_14.jpg",
+      "name": "Wall 14",
+      "thumbnail": "https://github.com/Max028/Space-Wallpaper/raw/master/Space_14_thumb.jpg"
+    },
+    {
+      "author": "Massimiliano Princiotta",
+      "url": "https://github.com/Max028/Space-Wallpaper/raw/master/Space_15.jpg",
+      "name": "Wall 15",
+      "thumbnail": "https://github.com/Max028/Space-Wallpaper/raw/master/Space_15_thumb.jpg"
+    },
+    {
+      "author": "Massimiliano Princiotta",
+      "url": "https://github.com/Max028/Space-Wallpaper/raw/master/Space_16.jpg",
+      "name": "Wall 16",
+      "thumbnail": "https://github.com/Max028/Space-Wallpaper/raw/master/Space_16_thumb.jpg"
+    },{
+      "author": "Massimiliano Princiotta",
+      "url": "https://github.com/Max028/Space-Wallpaper/raw/master/Space_17.jpg",
+      "name": "Wall 17",
+      "thumbnail": "https://github.com/Max028/Space-Wallpaper/raw/master/Space_17_thumb.jpg"
+    },
+    {
+      "author": "Massimiliano Princiotta",
+      "url": "https://github.com/Max028/Space-Wallpaper/raw/master/Space_18.jpg",
+      "name": "Wall 18",
+      "thumbnail": "https://github.com/Max028/Space-Wallpaper/raw/master/Space_18_thumb.jpg"
+    },
+    {
+      "author": "Massimiliano Princiotta",
+      "url": "https://github.com/Max028/Space-Wallpaper/raw/master/Space_19.jpg",
+      "name": "Wall 19",
+      "thumbnail": "https://github.com/Max028/Space-Wallpaper/raw/master/Space_19_thumb.jpg"
+    },
+    {
+      "author": "Massimiliano Princiotta",
+      "url": "https://github.com/Max028/Space-Wallpaper/raw/master/Space_20.jpg",
+      "name": "Wall 20",
+      "thumbnail": "https://github.com/Max028/Space-Wallpaper/raw/master/Space_20_thumb.jpg"
+    },
+    {
+      "author": "Massimiliano Princiotta",
+      "url": "https://github.com/Max028/Space-Wallpaper/raw/master/Space_21.jpg",
+      "name": "Wall 21",
+      "thumbnail": "https://github.com/Max028/Space-Wallpaper/raw/master/Space_21_thumb.jpg"
+    },
+    {
+      "author": "Massimiliano Princiotta",
+      "url": "https://github.com/Max028/Space-Wallpaper/raw/master/Space_22.jpg",
+      "name": "Wall 22",
+      "thumbnail": "https://github.com/Max028/Space-Wallpaper/raw/master/Space_22_thumb.jpg"
     }
-   
-   ]
+  ]
 }
-    
 
