@@ -1,8 +1,26 @@
 {
   "wallpapers": [
     {
-      "author": "Massimiliano Princiotta",
-      "url": "https://github.com/Max028/Bear-Wallpaper/raw/master/Wallpaper_1.jpg",
+      "url": "https://drive.google.com/open?id=0B1RhZasCqIz6bmh0Qm8zbGpGRmc",
       "name": "Wall 1",
       "thumbnail": "https://github.com/Max028/Space-Wallpaper/raw/master/Space_1_thum.jpg"
     }
+        {
+      "url": "https://drive.google.com/open?id=0B1RhZasCqIz6VnF5RmRqSXVKYnM",
+      "name": "Wall 2",
+      "thumbnail": "https://github.com/Max028/Space-Wallpaper/raw/master/Space_1_thum.jpg"
+    }
+     {
+      "url": "https://drive.google.com/open?id=0B1RhZasCqIz6emdFNUN2cFIwNlE",
+      "name": "Wall 3",
+      "thumbnail": "https://github.com/Max028/Space-Wallpaper/raw/master/Space_1_thum.jpg"
+    }
+        {
+      "url": "https://drive.google.com/open?id=0B1RhZasCqIz6R1hyN01OOElwN28",
+      "name": "Wall 4",
+      "thumbnail": "https://github.com/Max028/Space-Wallpaper/raw/master/Space_1_thum.jpg"
+    }
+    ]
+}
+    
+
