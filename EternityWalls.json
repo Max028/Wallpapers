@@ -1,8 +1,10 @@
 {
+  "wallpapers": [
+        {
       "url": "https://github.com/Max028/Wallpapers/raw/master/Eternity_01.jpg",
       "name": "Wall 1",
       "thumbnail": "https://github.com/Max028/Wallpapers/raw/master/Eternity01__thumb.jpg"
-    }
+    },
      {
       "url": "https://github.com/Max028/Wallpapers/raw/master/Eternity_02.jpg",
       "name": "Wall 2",
@@ -88,8 +90,16 @@
       "name": "Wall 18",
       "thumbnail": "https://github.com/Max028/Wallpapers/raw/master/Eternity_18_thumb.jpg"
     },
+         {
+      
+      "url": "https://github.com/Max028/Bear-Wallpaper/raw/master/Wallpaper_2.jpg",
+      "name": "Wall 19",
+      "thumbnail": "https://github.com/Max028/Bear-Wallpaper/raw/master/Wallpaper_2_thumbnail.jpg"
+    },
      {
       "url": "https://github.com/Max028/Wallpapers/raw/master/Eternity_20.jpg",
       "name": "Wall 20",
       "thumbnail": "https://github.com/Max028/Wallpapers/raw/master/Eternity_20_thumb.jpg"
     }
+  ]
+}
