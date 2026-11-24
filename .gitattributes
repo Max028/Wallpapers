@@ -1,0 +1,2 @@
+# Show JSON (the wallpaper list read by the Zooper theme app) in the repository languages
+*.json linguist-detectable=true
