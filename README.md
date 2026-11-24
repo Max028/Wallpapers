@@ -2,8 +2,21 @@
 
 Wallpaper pack for **Eternity**, a theme for [Zooper Widget](https://en.wikipedia.org/wiki/Zooper_Widget) (Android). The theme's app reads [`EternityWalls.json`](EternityWalls.json) and downloads the images directly from this repository.
 
-**Contents:** 35 wallpapers (JPG) with thumbnails · `EternityWalls.json` (list of images)
-**Status:** archived project (2016), no longer updated
+- **Contents:** 35 wallpapers (JPG) with thumbnails · `EternityWalls.json` (list of images)
+- **App:** [Eternity for Zooper](https://play.google.com/store/apps/details?id=com.devsociety.eternity) on Google Play
+- **Status:** discontinued (2016), still available for download
+
+## Project status
+
+**Eternity for Zooper is discontinued** and will not receive further updates, because:
+
+- the project has been abandoned;
+- Zooper Widget, the app this theme is built for, is no longer supported;
+- the original Android Studio source files have been lost.
+
+The app will stay online on Google Play: **[Eternity for Zooper](https://play.google.com/store/apps/details?id=com.devsociety.eternity)**. This repository also stays online, so the app can keep downloading its wallpapers.
+
+Other apps by the same developer: [Google Play developer page](https://play.google.com/store/apps/dev?id=8584573853062227897).
 
 ## Preview
 
